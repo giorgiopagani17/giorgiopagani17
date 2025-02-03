@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giorgiopagani17
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python and React
+- 🌱 I’m currently learning Angular
 - 📫 How to reach me giorgiopagani.tech@gmail.com
 - 😄 Pronouns: py/js
 - ⚡ Fun fact: I hate Java
