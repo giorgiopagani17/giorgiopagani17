@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @giorgiopagani17
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web and Mobile Development
 - 📫 How to reach me giorgiopagani.tech@gmail.com
 
 <!---
