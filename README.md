@@ -34,6 +34,7 @@ I have professional experience with **React, React Native, Vue.js and Angular**,
 
 * Git / GitHub
 * Docker
+* AWS
 * NPM
 * Yarn
 * Firebase
