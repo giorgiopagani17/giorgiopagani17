@@ -66,7 +66,7 @@ Check out my repositories below to see some of my work.
 
 * 📧 **Email:** [giorgiopagani.tech@gmail.com](mailto:giorgiopagani.tech@gmail.com)
 * 💼 **LinkedIn:** [Giorgio Pagani](https://www.linkedin.com/in/giorgio-pagani-5ab4b42b1/)
-* 🌐 **Portfolio:** [giorgiopagani.tech](https://www.giorgiopagani.com/)
+* 🌐 **Portfolio:** [giorgiopagani.com](https://www.giorgiopagani.com/)
 
 ---
 
