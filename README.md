@@ -39,6 +39,8 @@ I have professional experience with **React, React Native, Vue.js and Angular**,
 * Firebase
 * MySQL
 * MongoDB
+* Figma / Canva
+* Wordpress / Elementor
 
 ---
 
