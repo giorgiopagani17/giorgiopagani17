@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Giorgio Pagani
 
-### Front-End & Mobile Developer
+### Sofware Developer
 
 I'm a developer focused on building modern, responsive and user-friendly web and mobile applications.
 
